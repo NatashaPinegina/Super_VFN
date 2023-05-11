@@ -3,7 +3,7 @@
 
 ### Сборка
 ```
-git clone 
+git clone https://github.com/NatashaPinegina/SuperVFN.git
 cd SuperVFN
 mkdir build
 cd build/
