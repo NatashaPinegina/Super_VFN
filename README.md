@@ -3,8 +3,8 @@
 
 ### Сборка
 ```
-git clone https://github.com/NatashaPinegina/SuperVFN.git
-cd SuperVFN
+git clone https://github.com/NatashaPinegina/Super_VFN.git
+cd Super_VFN
 mkdir build
 cd build/
 qmake ../untitled.pro
